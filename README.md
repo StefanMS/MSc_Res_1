@@ -1,1 +1,1 @@
-# MSc_Thesis_1
+# Scientific Research Sem 1
